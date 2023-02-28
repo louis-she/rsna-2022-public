@@ -1,4 +1,4 @@
-## 24th training code for Kaggle Competition: RSNA Screening Mammography Breast Cancer Detection
+## 26th training code for Kaggle Competition: RSNA Screening Mammography Breast Cancer Detection
 
 Training source code of the RSNA Screening Mammography Breast Cancer Detection competition, 26th.
 
