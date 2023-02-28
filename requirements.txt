@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch==1.13.0
+torchvision==0.14.0
+filelock
+matplotlib
+pandas
+timm
+einops
+python-opencv
+pydicom
+dicomsdl
+redis
+scikit-learn
+albumentations
+exhaustive_weighted_random_sampler
+neptune-client
+git+https://github.com/rwightman/pytorch-image-models.git@v0.8.6dev0
+pylibjpeg
+pylibjpeg-libjpeg
+fire
